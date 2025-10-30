@@ -6,29 +6,29 @@
 
 ### Project Structure
 
-alfa-tr/
-├── backend/ # Spring Boot API
-│ ├── src/
-│ │ └── main/
-│ │ ├── java/com/alfa/api/
-│ │ │ ├── controller/
-│ │ │ │ └── ShipController.java
-│ │ │ ├── model/
-│ │ │ │ └── ShipInfo.java
-│ │ │ └── AlfaTrApplication.java
-│ │ └── resources/
-│ │ └── application.properties
-│ └── pom.xml
-|
-├── frontend/ # React UI
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── ShipInfoCard.jsx
-│ │ ├── services/
-│ │ │ └── api.js
-│ │ └── App.jsx
-│ └── package.json
+alfa-tr/\
+├── backend/ # Spring Boot API\
+│ ├── src/\
+│ │ └── main/\
+│ │ ├── java/com/alfa/api/\
+│ │ │ ├── controller/\
+│ │ │ │ └── ShipController.java\
+│ │ │ ├── model/\
+│ │ │ │ └── ShipInfo.java\
+│ │ │ └── AlfaTrApplication.java\
+│ │ └── resources/\
+│ │ └── application.properties\
+│ └── pom.xml\
+|\
+├── frontend/ # React UI\
+│ ├── public/\
+│ ├── src/\
+│ │ ├── components/\
+│ │ │ └── ShipInfoCard.jsx\
+│ │ ├── services/\
+│ │ │ └── api.js\
+│ │ └── App.jsx\
+│ └── package.json\
 
 ### Installation
 
